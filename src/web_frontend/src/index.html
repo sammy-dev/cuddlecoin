@@ -432,26 +432,6 @@
     - custom js link
   -->
   <script src="index.js"></script>
-  <script>
-    // Initialises the application listeners and handlers
-    function main() {
-        const button = document.querySelector('#Buy-cuddle');
-        button.addEventListener("click", onButtonPress);
-    }
-    
-    async function onButtonPress() {
-        const hasAllowed = await window.ic.plug.requestConnect();
-    
-        if (hasAllowed) {
-            console.log('Plug wallet is connected');
-        } else {
-            console.log('Plug wallet connection was refused');
-        }
-    }
-    
-    // Calls the Main function when the document is ready
-    document.addEventListener("DOMContentLoaded", main);
-</script>
   <!-- 
     - ionicon link
   -->
