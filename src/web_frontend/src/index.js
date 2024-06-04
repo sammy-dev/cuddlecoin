@@ -58,8 +58,5 @@ async function onButtonPress() {
     console.log('Plug wallet connection was refused');
   }
 }
-setTimeout(function () {
-  el.target.disabled = false;
-}, 5000);
 // Calls the Main function when the document is ready
 document.addEventListener("DOMContentLoaded", main);

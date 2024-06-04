@@ -1,0 +1,4 @@
+.env
+.dfx
+node_modules
+dist
