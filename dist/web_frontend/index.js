@@ -52,23 +52,18 @@ function main() {
   button.addEventListener("click", onButtonPress);
 }
 
-async function onButtonPress(el) {
-  el.target.disabled = true;
-
+async function onButtonPress() {
   const hasAllowed = await window.ic.plug.requestConnect();
 
   if (hasAllowed) {
-    el.target.textContent = "Plug wallet is connected"
+    console.log('Plug wallet is connected');
     // Replace this URL with the actual URL of your token swap page
     const tokenSwapUrl = "https://app.icpswap.com/swap?input=ate73-biaaa-aaaam-acp3a-cai&output=ryjl3-tyaaa-aaaaa-aaaba-cai"; 
     window.location.href = tokenSwapUrl;
   } else {
-    el.target.textContent = "Plug wallet connection was refused";
+    console.log('Plug wallet connection was refused');
   }
 }
-setTimeout(function () {
-  el.target.disabled = false;
-}, 5000);
 // Calls the Main function when the document is ready
 document.addEventListener("DOMContentLoaded", main);
 
