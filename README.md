@@ -1,25 +1,137 @@
-# web
+# CuddleCoin
 
-Welcome to your new web project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+Welcome to the CuddleCoin project! This README provides an overview of CuddleCoin, a community-driven initiative aimed at spreading warmth and positivity within the Internet Computer Protocol (ICP) ecosystem. CuddleCoin is more than just a memecoin; it fosters community engagement and fun through its unique tokenomics and engaging activities.
 
-To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
+## Table of Contents
 
-To learn more before you start working with web, see the following documentation available online:
+- [Introduction](#introduction)
+- [Purpose and Vision](#purpose-and-vision)
+- [Problem Statement](#problem-statement)
+- [Solution](#solution)
+- [Tokenomics](#tokenomics)
+- [Economic Aspects](#economic-aspects)
+- [Airdrop Mechanism](#airdrop-mechanism)
+- [Roadmap](#roadmap)
+- [Story](#story)
+- [How to Contribute](#how-to-contribute)
+- [Contact](#contact)
 
-- [Quick Start](https://internetcomputer.org/docs/current/developer-docs/quickstart/hello10mins)
-- [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/build/install-upgrade-remove)
-- [Motoko Programming Language Guide](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/motoko/)
-- [Motoko Language Quick Reference](https://internetcomputer.org/docs/current/references/motoko-ref/)
-- [JavaScript API Reference](https://erxue-5aaaa-aaaab-qaagq-cai.raw.icp0.io)
+## Introduction
 
-If you want to start working on your project right away, you might want to try the following commands:
+CuddleCoin is designed to inject joy and humor into the crypto community, providing a platform for social interaction and positive reinforcement. This README outlines the purpose, vision, tokenomics, economic aspects, roadmap, story, and airdrop mechanism behind CuddleCoin.
 
-```bash
-cd web/
-dfx help
-dfx canister --help
-```
+## Purpose and Vision
 
+### Purpose
+
+CuddleCoin aims to foster community engagement and fun within the ICP ecosystem. It seeks to bring joy and humor to the crypto community through its unique tokenomics and engaging activities.
+
+### Vision
+
+Our vision is to establish CuddleCoin as a symbol of warmth and connection, encouraging interactions and spreading positivity among users. By leveraging innovative tokenomics and community-focused initiatives, CuddleCoin aims to build a strong, loyal community that actively participates in its growth and development.
+
+**Tagline:** "Spreading Warmth, One Cuddle at a Time."
+
+## Problem Statement
+
+### Problem
+
+The cryptocurrency space is often perceived as highly technical, speculative, and serious, which can be intimidating and unwelcoming for newcomers. This atmosphere can hinder broader adoption and engagement, especially among those seeking a more lighthearted and inclusive community experience.
+
+### Solution
+
+CuddleCoin addresses this problem by creating a memecoin that prioritizes community, humor, and positivity. Through engaging activities, rewards, and deflationary mechanisms, CuddleCoin offers a more approachable and enjoyable entry point into the crypto world, fostering a welcoming environment for all participants.
+
+## Tokenomics
+
+- **Total Supply:** 1,000,000,000 CUDDLE
+
+### Distribution Plan
+
+- **Initial Distribution:** Airdrop 50% (500,000,000 CUDDLE)
+- **Development and Marketing:** 20% (200,000,000 CUDDLE)
+- **Community Rewards:** 20% (200,000,000 CUDDLE)
+- **Liquidity Pool:** 10% (100,000,000 CUDDLE)
+
+## Economic Aspects
+
+### Incentives: Staking and Holding Rewards
+
+**Purpose:** To incentivize long-term participation and commitment within the CuddleCoin community.
+
+**Implementation:**
+
+- **Staking Rewards:** Users can lock their CuddleCoins in a staking pool to earn additional tokens as rewards. Rewards increase with longer staking periods to encourage sustained commitment.
+- **Holding Rewards:** Periodic airdrops or bonus distributions to users who hold CuddleCoins in their wallets, rewarding loyalty and encouraging token retention.
+
+### Deflationary Mechanisms: Token Burns
+
+**Purpose:** To reduce the total supply of CuddleCoins over time, increasing scarcity and potentially enhancing token value.
+
+**Implementation:**
+
+- **Regular Burns:** Scheduled burns (e.g., quarterly) to systematically reduce supply.
+- **Milestone-Based Burns:** Burns triggered upon achieving specific milestones or community goals, fostering community engagement and collective investment.
+
+## Airdrop Mechanism
+
+**Purpose:** To ensure broad initial distribution of CuddleCoins, promoting community involvement and adoption from the outset.
+
+**Implementation:**
+
+- **Criteria:** Airdrops will be distributed to early adopters and community members who fulfill specific criteria, such as holding a minimum amount of CuddleCoins or participating in community activities.
+- **Frequency:** Initial airdrops will be conducted periodically to encourage continued engagement and reward early supporters of the project.
+- **Mechanism:** Airdrops will be executed via smart contracts on the ICP Mainnet, ensuring transparency and efficiency in distribution.
+
+## Roadmap
+
+### Short-term Goals (Q2 2024 - Q4 2024)
+
+- **Q2 2024:** Launch of CuddleCoin website and community engagement initiatives.
+- **Q3 2024:** Implementation of staking rewards and initial token burns.
+- **Q4 2024:** Listing on decentralized exchanges (DEXs) and expansion of marketing efforts.
+
+### Long-term Goals (2025 and Beyond)
+
+- **2025:** Integration with additional ICP wallets and development of decentralized applications (DApps) utilizing CuddleCoin.
+- **Beyond:** Continued community growth, partnerships with meme influencers, and establishment as a recognized memecoin within the broader crypto ecosystem.
+
+## Story
+
+### Origin of CuddleCoin
+
+CuddleCoin was conceived out of a desire to inject warmth and humor into the often serious world of cryptocurrencies. Born from a brainstorming session among a group of crypto enthusiasts, CuddleCoin emerged as a playful yet purposeful initiative to create a positive impact within the ICP community and beyond.
+
+**Mascot:** Meet Cuddles, the friendly mascot of CuddleCoin. Cuddles represents the heart of the project, embodying the values of warmth, inclusivity, and community spirit.
+
+With CuddleCoin, we aim to create a positive and engaging experience for all participants, fostering a welcoming and joyful community within the ICP ecosystem. Join us in spreading warmth, one cuddle at a time!
+
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch with a descriptive name.
+3. Make your changes.
+4. Test thoroughly.
+5. Submit a pull request with a detailed description of your changes.
+
+## Contact
+
+For more details and updates, please refer to the official project repository and join our community channels.
+
+## Social Links
+
+🌟 We heard you like crypto and hugs, so we made CuddleCoin! 😭😭
+Tag a friend who needs a virtual hug today💕
+
+Check our socials 🎉 
+
+- **X (Twitter):** [CuddleCoin](https://x.com/cuddleCoin78244?s=08)
+- **Telegram:** [CuddleCoin Community](https://t.me/+OhFlLTjPpMc1ZmRk)
+- **WhatsApp:** [CuddleCoin Chat](https://chat.whatsapp.com/HO4UKuCS00X1sFVHyZJHpR)
+- **Openchat:** [CuddleCoin Group](https://oc.app/group/ia632-iqaaa-aaaar-bf7oa-cai/?code=2cf65339e9820ab7)
+- **Website:** [CuddleCoin](https://rlg5p-aaaaa-aaaag-alcaq-cai.icp0.io/)
+
+#CryptoCommunity #CuddleCoin
 ## Running the project locally
 
 If you want to test your project locally, you can use the following commands:
@@ -31,30 +143,3 @@ dfx start --background
 # Deploys your canisters to the replica and generates your candid interface
 dfx deploy
 ```
-
-Once the job completes, your application will be available at `http://localhost:4943?canisterId={asset_canister_id}`.
-
-If you have made changes to your backend canister, you can generate a new candid interface with
-
-```bash
-npm run generate
-```
-
-at any time. This is recommended before starting the frontend development server, and will be run automatically any time you run `dfx deploy`.
-
-If you are making frontend changes, you can start a development server with
-
-```bash
-npm start
-```
-
-Which will start a server at `http://localhost:8080`, proxying API requests to the replica at port 4943.
-
-### Note on frontend environment variables
-
-If you are hosting frontend code somewhere without using DFX, you may need to make one of the following adjustments to ensure your project does not fetch the root key in production:
-
-- set`DFX_NETWORK` to `ic` if you are using Webpack
-- use your own preferred method to replace `process.env.DFX_NETWORK` in the autogenerated declarations
-  - Setting `canisters -> {asset_canister_id} -> declarations -> env_override to a string` in `dfx.json` will replace `process.env.DFX_NETWORK` with the string in the autogenerated declarations
-- Write your own `createActor` constructor
